@@ -1,6 +1,14 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **iOS Developers Slack** should be a safe place for everybody regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion.
+The **iOS Developers Slack** should be a safe place for everybody regardless of
+
+- gender, gender identity or gender expression 
+- sexual orientation
+- disability
+- physical appearance (including but not limited to body size)
+- race
+- age
+- religion
 
 As someone who is part of this Slack, you agree that:
 
