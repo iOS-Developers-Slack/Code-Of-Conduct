@@ -51,3 +51,8 @@ Failing to follow the community guidelines as described in this document carries
 * Tom Catterall - @swizzlr
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+
+**Helpful tips for new people joining us.**
+* Use @channel and @everybody sparingly. Everyone in the Slack, across every time zone gets a notification when you use those keywords.
+* If you have something to share, try to find the appropriate channel to put it in.
+* Introduce yourself in #introductions. We don't all know each other.
