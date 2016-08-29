@@ -53,7 +53,7 @@ Failing to follow the community guidelines as described in this document carries
 
 - You must be a member for one week before you are allowed to invite another person.
 - Try to limit your invites to 1 per week, unless you feel rather strongly about a few people.
-- You are responsible for those who you invite... If you invite someone who is causing issues, then your invitation privelleges may be revoked.
+- You are responsible for those who you invite... If you invite someone who is causing issues, then your invitation privileges may be revoked.
 
 **If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current moderators and their Slack IDs:**
 
