@@ -57,10 +57,10 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current moderators and their Slack IDs:**
 
-* Joe Fabisevich - @mergesort
-* Tom Catterall - @swizzlr
-* Jeff Forbes - @jforbes
-* Jeff Grossman - @jeffgrossman
-* Nora Trapp - @nora
+* Joe Fabisevich - [@mergesort](https://iosdevelopers.slack.com/messages/@mergesort/)
+* Tom Catterall - [@swizzlr](https://iosdevelopers.slack.com/messages/@swizzlr/)
+* Jeff Forbes - [@jforbes](https://iosdevelopers.slack.com/messages/@jforbes/)
+* Jeff Grossman - [@jeffgrossman](https://iosdevelopers.slack.com/messages/@jeffgrossman/)
+* Nora Trapp - [@nora](https://iosdevelopers.slack.com/messages/@nora/)
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
