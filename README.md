@@ -45,6 +45,10 @@ We avoid using offensive topics as a form of humor.
 
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
+####Privacy
+- All conversations should be considered private unless otherwise specified. 
+- If you wish to share a conversation, or part of one, please ask for permission from the person or people involved.
+
 ###Best Practices
 - Stay on topic. The goal of the iOS Slack is to facilitate discussion of things relating to iOS development. This could be about marketing, business, server-side programming, or other things that may be important to an iOS developer.
 - If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
