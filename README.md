@@ -47,7 +47,7 @@ Failing to follow the community guidelines as described in this document carries
 
 #### Privacy
 - All conversations are private unless otherwise specified. 
-  - The lone exception is in the event of seeking mediation or reporting behavior in violation of the code of conduct. In this case conversations may be shared with a member of the administrative team who may in turn share it with the rest of the administrative team if discussion is required.
+  - The only exceptions to this rule pertain to the enforcement of our code of conduct. A conversation may be shared with any member of the administrative team when a violation of the code of conduct has occurred. The conversation may then be reviewed by the entire administrative team, if necessary, to determine an appropriate resolution.
 
 - If you wish to share a conversation, or part of one, you must get permission from each person involved.
 
