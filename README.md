@@ -61,7 +61,7 @@ Failing to follow the community guidelines as described in this document carries
 - Try to limit your invites to 1 per week, unless you feel rather strongly about a few people.
 - You are responsible for those who you invite... If you invite someone who is causing issues, then your invitation privileges may be revoked.
 
-**If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current moderators and their Slack IDs:**
+**If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack IDs:**
 
 * Joe Fabisevich - [@mergesort](https://iosdevelopers.slack.com/messages/@mergesort/)
 * Jeff Forbes - [@jforbes](https://iosdevelopers.slack.com/messages/@jforbes/)
@@ -71,4 +71,4 @@ Failing to follow the community guidelines as described in this document carries
 * Soroush Khanlou - [@soroush](https://iosdevelopers.slack.com/messages/@soroush/)
 * Jazbo - [@bugkrusha](https://iosdevelopers.slack.com/messages/@bugkrusha/)
 
-*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+*The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
