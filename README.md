@@ -36,6 +36,16 @@ We avoid using offensive topics as a form of humor.
 
 **These things are NOT OK.**
 
+### Expected Behavior
+
+This community thrives because of everyone's contributions. We exchange ideas, ask questions, answer some of them, have debates, or sometimes are here just to hang out. There are times where the nature of a question may seem simple, has been asked and answered, or may trigger some personal feelings. It may make you feel like a snide or hurftul remark is justified, but it isn't. If you can't make a thoughtful or helpful comment to make, please continue scrolling.
+
+Please don't characterize questions others ask as simple, or call out members as myopic for the tools they choose to use or decisions they make.
+
+Futile debates about the code of conduct are highly discouraged. This doesn't mean you cannot raise concerns or issues, but please be considerate and constructive, not heated and destructive with your commentary.
+
+A simple way to remember how you're expected to act: if you can't find anything nice to say, don't say anything at all.
+
 ### If you say something that is found offensive, and you are called out on it, let’s:
 
 - Listen without interruption.
@@ -43,7 +53,18 @@ We avoid using offensive topics as a form of humor.
 - Ask for tips / help with avoiding making the offense in the future.
 - Apologize and ask forgiveness.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+### Infractions
+
+Failing to follow the community guidelines as described in this document carries consequences. 
+For minor infractions, you may: 
+- Be temporarily suspended from the Slack.
+- Have your invitation priveleges temporarily revoked.
+
+Upon repeat offenses where it is believed you are not acting in good faith, or for more serious offenses you may:
+- Be asked to leave permanently.
+- Have your invitation priveleges permanently revoked.
+
+The punishement(s) will be decided upon by the moderators. While the actions taken will result from a discussion which you may be a part of, the consequences will be binding.
 
 #### Privacy
 - All conversations are private unless otherwise specified. 
