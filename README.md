@@ -62,7 +62,7 @@ For minor infractions, you may:
 
 Upon repeat offenses where it is believed you are not acting in good faith, or for more serious offenses you may:
 - Be asked to leave permanently.
-- Have your invitation priveleges permanently revoked.
+- Have your invitation privileges permanently revoked.
 
 - Penalties will be decided upon by the moderators. The actions taken will result from a discussion which you may be a part of, and the consequences will be binding.
 - While infractions are being discussed, the involved users will lose their invitation privileges to ensure if they are found to have violated rules that no new users will be added to the community on their behalf.
