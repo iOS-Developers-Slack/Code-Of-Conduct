@@ -58,7 +58,7 @@ A simple way to remember how you're expected to act: if you can't find anything 
 Failing to follow the community guidelines as described in this document carries consequences. 
 For minor infractions, you may: 
 - Be temporarily suspended from the Slack.
-- Have your invitation priveleges temporarily revoked.
+- Have your invitation privileges temporarily revoked.
 
 Upon repeat offenses where it is believed you are not acting in good faith, or for more serious offenses you may:
 - Be asked to leave permanently.
