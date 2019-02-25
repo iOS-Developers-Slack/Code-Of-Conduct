@@ -56,6 +56,7 @@ A simple way to remember how you're expected to act: if you can't find anything 
 ### Infractions
 
 Failing to follow the community guidelines as described in this document carries consequences. 
+
 **For minor infractions, you may:**
 - Be temporarily suspended from the Slack.
 - Have your invitation privileges temporarily revoked.
