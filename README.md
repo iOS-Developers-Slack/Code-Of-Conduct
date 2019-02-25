@@ -40,7 +40,7 @@ We avoid using offensive topics as a form of humor.
 
 This community thrives because of everyone's contributions. We exchange ideas, ask questions, answer some of them, have debates, or sometimes are here just to hang out. There are times where the nature of a question may seem simple, has been asked and answered, or may trigger some personal feelings. It may make you feel like a snide or hurtful remark is justified, but it isn't. If you do not have a thoughtful or helpful comment, please refrain leaving a comment.
 
-Please do not characterize questions others ask as stupid or simple, all questions are welcome. Please do not or call out members for the tools they choose to use or decisions they make.
+Please do not characterize questions others ask as stupid or simple, all questions are welcome. Please do not call out members for the tools they choose to use or decisions they make.
 
 Futile or petty debates about the code of conduct are highly discouraged. This doesn't mean you cannot raise concerns or issues, but please be considerate and constructive, rather than heated and destructive with your commentary.
 
