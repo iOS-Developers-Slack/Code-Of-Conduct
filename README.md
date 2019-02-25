@@ -56,15 +56,15 @@ A simple way to remember how you're expected to act: if you can't find anything 
 ### Infractions
 
 Failing to follow the community guidelines as described in this document carries consequences. 
-For minor infractions, you may:
+**For minor infractions, you may:**
 - Be temporarily suspended from the Slack.
 - Have your invitation privileges temporarily revoked.
 
-Upon repeat offenses where it is believed you are not acting in good faith, or for more serious offenses you may:
+**For more serious offenses, repeat offenses, or situations where you are not believed to be acting in good faith, you may:**
 - Be asked to leave permanently.
 - Have your invitation privileges permanently revoked.
 
-- Penalties will be decided upon by the moderators. The actions taken will result from a discussion which you may be a part of, and the consequences will be binding.
+- Penalties will be determined by the moderators. The actions taken will result from a discussion which you may be a part of, and the consequences will be binding.
 - While infractions are being discussed, the involved users will lose their invitation privileges to ensure if they are found to have violated rules that no new users will be added to the community on their behalf.
 
 #### Privacy
