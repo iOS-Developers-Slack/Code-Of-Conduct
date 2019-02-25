@@ -79,13 +79,19 @@ Upon repeat offenses where it is believed you are not acting in good faith, or f
 
 ### Invitations
 
+#### Requirements
 - You must be a member for one month before you are allowed to request an invitation for another person.
   - At the discretion of the moderators, if you are actively participating in the community and have not been a member for a month, you may be allowed to request invites sooner than one month.
-- Try to limit your invite requests to one per week, unless you feel rather strongly about a few people.
-- You are responsible for those who you invite... If you invite someone who is causing issues, then your invitation privileges may be revoked.
-- Use the #please-add channel to invite someone you would like to have join the Slack by providing a name and email to reach the invitee at. Please avoid inviting people in a public internet setting, as that sometimes leads to random people asking for requests.
+- You must be a member currently in good standing in the community.
 
-**If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack IDs:**
+#### Policies
+- Try to limit your invite requests to one per week, unless you feel rather strongly about a few people.
+- You are responsible for those who you invite... If you invite someone who is causing issues, your future invitations may not be honored.
+**- Use the #please-add channel to invite someone you would like to have join the Slack by providing a name and email to reach the invitee at. Please avoid inviting people in a public internet setting, as that sometimes leads to random people asking for requests.**
+
+
+### Admins
+If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack IDs:**
 
 * Joe Fabisevich - [@mergesort](https://iosdevelopers.slack.com/messages/@mergesort/)
 * Jeff Forbes - [@jforbes](https://iosdevelopers.slack.com/messages/@jforbes/)
