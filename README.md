@@ -65,7 +65,9 @@ Failing to follow the community guidelines as described in this document carries
 - Be asked to leave permanently.
 - Have your invitation privileges permanently revoked.
 
-- Penalties will be determined by the moderators. The actions taken will result from a discussion which you may be a part of, and the consequences will be binding.
+**For all infractions:**
+
+- Penalties will be determined by the admins. The actions taken will result from a discussion which you may be a part of, and the consequences will be binding.
 - While infractions are being discussed, the involved users will lose their invitation privileges to ensure if they are found to have violated rules that no new users will be added to the community on their behalf.
 
 #### Privacy
@@ -82,7 +84,7 @@ Failing to follow the community guidelines as described in this document carries
 
 #### Requirements
 - You must be a member for one month before you are allowed to request an invitation for another person.
-  - At the discretion of the moderators, if you are actively participating in the community and have not been a member for a month, you may be allowed to request invites sooner than one month.
+  - At the discretion of the admins, if you are actively participating in the community and have not been a member for a month, you may be allowed to request invites sooner than one month.
 - You must be a member currently in good standing in the community.
 
 #### Policies
