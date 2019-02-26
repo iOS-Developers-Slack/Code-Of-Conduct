@@ -89,7 +89,7 @@ Failing to follow the community guidelines as described in this document carries
 
 #### Who to invite
 
-- Please invite people you are willing to vouch for. They are you responsibility.
+- Please invite people you are willing to vouch for. They are your responsibility.
 - A good rule of thumb is to invite people you've worked with, collaborated with, or know personally.
 - They must be iOS/Mac developers, or learning iOS/Mac. Skill level or experience don't matter, as long as they're genuinely trying to learn how to program for Apple platforms.
 - Do not invite strangers or people you've just met.
