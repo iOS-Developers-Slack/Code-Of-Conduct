@@ -87,10 +87,19 @@ Failing to follow the community guidelines as described in this document carries
   - At the discretion of the admins, if you are actively participating in the community and have not been a member for a month, you may be allowed to request invites sooner than one month.
 - You must be a member currently in good standing in the community.
 
+#### Who to invite
+
+- Please invite people you are willing to vouch for. They are you responsibility.
+- A good rule of thumb is to invite people you've worked with, collaborated with, or know personally.
+- They must be iOS/Mac developers, or learning iOS/Mac. Skill level or experience don't matter, as long as they're genuinely trying to learn how to program for Apple platforms.
+- Do not invite strangers or people you've just met.
+
 #### Policies
 - Try to limit your invite requests to one per week, unless you feel rather strongly about a few people.
-- You are responsible for those who you invite... If you invite someone who is causing issues, your future invitations may not be honored.
-**- Use the #please-add channel to invite someone you would like to have join the Slack by providing a name and email to reach the invitee at. Please avoid inviting people in a public internet setting, as that sometimes leads to random people asking for requests.**
+- You are responsible for those who you invite... If you invite someone who is causing issues, your future invitation requests may not be honored.
+- Use the **#please-add** channel to invite someone you would like to have join the Slack by providing a **name** and **email** to reach the invitee at. 
+
+**Please avoid inviting people in a public internet setting such as tweeting about it**. This often leads to random people who come across the conversation asking for requests as well, which creates an uncomfortable situation for those involved.
 
 
 ### Admins
