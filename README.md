@@ -36,6 +36,16 @@ We avoid using offensive topics as a form of humor.
 
 **These things are NOT OK.**
 
+### Expected Behavior
+
+This community thrives because of everyone's contributions. We exchange ideas, ask questions, answer some of them, have debates, or sometimes are here just to hang out. There are times where the nature of a question may seem simple, has been asked and answered, or may trigger some personal feelings. It may make you feel like a snide or hurtful remark is justified, but it isn't. If you do not have a thoughtful or helpful comment, please refrain leaving a comment.
+
+Please do not characterize questions others ask as stupid or simple, all questions are welcome. Please do not call out members for the tools they choose to use or decisions they make.
+
+Futile or petty debates about the code of conduct are highly discouraged. This doesn't mean you cannot raise concerns or issues, but please be considerate and constructive, rather than heated and destructive with your commentary.
+
+A simple way to remember how you're expected to act: if you can't find anything nice to say, don't say anything at all.
+
 ### If you say something that is found offensive, and you are called out on it, let’s:
 
 - Listen without interruption.
@@ -43,7 +53,22 @@ We avoid using offensive topics as a form of humor.
 - Ask for tips / help with avoiding making the offense in the future.
 - Apologize and ask forgiveness.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+### Infractions
+
+Failing to follow the community guidelines as described in this document carries consequences. 
+
+**For minor infractions, you may:**
+- Be temporarily suspended from the Slack.
+- Have your invitation privileges temporarily revoked.
+
+**For more serious offenses, repeat offenses, or situations where you are not believed to be acting in good faith, you may:**
+- Be asked to leave permanently.
+- Have your invitation privileges permanently revoked.
+
+**For all infractions:**
+
+- Penalties will be determined by the admins. The actions taken will result from a discussion which you may be a part of, and the consequences will be binding.
+- While infractions are being discussed, the involved users will lose their invitation privileges to ensure if they are found to have violated rules that no new users will be added to the community on their behalf.
 
 #### Privacy
 - All conversations are private unless otherwise specified. 
@@ -57,13 +82,28 @@ Failing to follow the community guidelines as described in this document carries
 
 ### Invitations
 
+#### Requirements
 - You must be a member for one month before you are allowed to request an invitation for another person.
-  - At the discretion of the moderators, if you are actively participating in the community and have not been a member for a month, you may be allowed to request invites sooner than one month.
-- Try to limit your invite requests to one per week, unless you feel rather strongly about a few people.
-- You are responsible for those who you invite... If you invite someone who is causing issues, then your invitation privileges may be revoked.
-- Use the #please-add channel to invite someone you would like to have join the Slack by providing a name and email to reach the invitee at. Please avoid inviting people in a public internet setting, as that sometimes leads to random people asking for requests.
+  - At the discretion of the admins, if you are actively participating in the community and have not been a member for a month, you may be allowed to request invites sooner than one month.
+- You must be a member currently in good standing in the community.
 
-**If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack IDs:**
+#### Who to invite
+
+- Please invite people you are willing to vouch for. They are your responsibility.
+- A good rule of thumb is to invite people you've worked with, collaborated with, or know personally.
+- They must be iOS/Mac developers, or learning iOS/Mac. Skill level or experience don't matter, as long as they're genuinely trying to learn how to program for Apple platforms.
+- Do not invite strangers or people you've just met.
+
+#### Policies
+- Try to limit your invite requests to one per week, unless you feel rather strongly about a few people.
+- You are responsible for those who you invite... If you invite someone who is causing issues, your future invitation requests may not be honored.
+- Use the **#please-add** channel to invite someone you would like to have join the Slack by providing a **name** and **email** to reach the invitee at. 
+
+**Please avoid inviting people in a public internet setting such as tweeting about it**. This often leads to random people who come across the conversation asking for requests as well, which creates an uncomfortable situation for those involved.
+
+
+### Admins
+If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack IDs:**
 
 * Joe Fabisevich - [@mergesort](https://iosdevelopers.slack.com/messages/@mergesort/)
 * Jeff Forbes - [@jforbes](https://iosdevelopers.slack.com/messages/@jforbes/)
