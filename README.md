@@ -97,7 +97,7 @@ Failing to follow the community guidelines as described in this document carries
 #### Policies
 - Try to limit your invite requests to one per week, unless you feel rather strongly about a few people.
 - You are responsible for those who you invite... If you invite someone who is causing issues, your future invitation requests may not be honored.
-- Use the **#please-add** channel to invite someone you would like to have join the Slack by providing a **name** and **email** to reach the invitee at. 
+- Use the **#please-add** channel to invite someone you would like to have join the Slack by providing a **name** and **personal email address** to reach the invitee at.
 
 **Please avoid inviting people in a public internet setting such as tweeting about it**. This often leads to random people who come across the conversation asking for requests as well, which creates an uncomfortable situation for those involved.
 
