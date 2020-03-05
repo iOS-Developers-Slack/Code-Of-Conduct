@@ -109,7 +109,7 @@ If you experience or notice abuse, harassment, discrimination, or feel unsafe, l
 * Jeff Grossman - [@jeffgrossman](https://iosdevelopers.slack.com/messages/@jeffgrossman/)
 * Soroush Khanlou - [@soroush](https://iosdevelopers.slack.com/messages/@soroush/)
 * Jazbo - [@bugkrusha](https://iosdevelopers.slack.com/messages/@bugkrusha/)
-* Berta Devant - [@Berta Devant](https://iosdevelopers.slack.com/messages/@Berta Devant/)
+* Berta Devant - [@Berta Devant](https://iosdevelopers.slack.com/messages/@Berta%20Devant/)
 * Christina Moulton - [@Christina](https://iosdevelopers.slack.com/messages/@Christina/)
 * Daniel Jalkut - [@danielpunkass](https://iosdevelopers.slack.com/messages/@danielpunkass/)
 
