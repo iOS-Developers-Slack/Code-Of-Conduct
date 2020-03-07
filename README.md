@@ -105,12 +105,12 @@ Failing to follow the community guidelines as described in this document carries
 ### Admins
 If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack IDs:**
 
-* Joe Fabisevich - [@mergesort](https://iosdevelopers.slack.com/messages/@mergesort/)
-* Jeff Forbes - [@jforbes](https://iosdevelopers.slack.com/messages/@jforbes/)
-* Jeff Grossman - [@jeffgrossman](https://iosdevelopers.slack.com/messages/@jeffgrossman/)
-* Nora Trapp - [@nora](https://iosdevelopers.slack.com/messages/@nora/)
-* Abbey Jackson - [@earthabbey](https://iosdevelopers.slack.com/messages/@earthabbey/)
-* Soroush Khanlou - [@soroush](https://iosdevelopers.slack.com/messages/@soroush/)
-* Jazbo - [@bugkrusha](https://iosdevelopers.slack.com/messages/@bugkrusha/)
+* **Joe Fabisevich** - [@mergesort]
+* **Jeff Grossman** - [@jeffgrossman]
+* **Soroush Khanlou** - [@soroush]
+* **Jazbo** - [@bugkrusha]
+* **Berta Devant** - [@Berta Devant]
+* **Christina Moulton** - [@Christina]
+* **Daniel Jalkut** - [@danielpunkass]
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
