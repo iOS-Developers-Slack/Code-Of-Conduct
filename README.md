@@ -77,7 +77,7 @@ Failing to follow the community guidelines as described in this document carries
 - If you wish to share a conversation, or part of one, you must get permission from each person involved.
 
 ### Best Practices
-- Stay on topic. The goal of the iOS Slack is to facilitate discussion of things relating to iOS development. This could be about marketing, business, server-side programming, or other things that may be important to an iOS developer.
+- Stay on topic. The goal of the iOS Folks Slack is to facilitate discussion of things relating to development on and for Apple platforms. This includes but is not limited to iOS and macOS, watchOS, tvOS, but also related tools like the Swift compiler, Swift on Linux, and other tools in the Apple ecosystem. We have room for discussing many development adjacent topics as well, such as marketing, business, server-side programming, or other things that may be important to a developer working on Apple platforms.
 - If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
 
 ### Invitations
@@ -91,7 +91,7 @@ Failing to follow the community guidelines as described in this document carries
 
 - Please invite people you are willing to vouch for. They are your responsibility.
 - A good rule of thumb is to invite people you've worked with, collaborated with, or know personally.
-- They must be iOS/Mac developers, or learning iOS/Mac. Skill level or experience don't matter, as long as they're genuinely trying to learn how to program for Apple platforms.
+- They must be a developer working in the Apple ecosystem, or learning skills related to developing on or for one of those platforms. Skill level or experience don't matter, as long as they're genuinely trying to learn how to program for Apple platforms.
 - Do not invite strangers or people you've just met.
 
 #### Policies
