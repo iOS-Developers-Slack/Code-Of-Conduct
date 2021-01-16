@@ -90,15 +90,17 @@ Failing to follow the community guidelines as described in this document carries
 
 #### Who to invite
 
-- Please invite people you are willing to vouch for. They are your responsibility.
+- Please invite people **you know and are willing to vouch for**. The people you invite are your responsibility.
 - A good rule of thumb is to invite people you've worked with, collaborated with, or know personally.
 - They must be a developer working in the Apple ecosystem, or learning skills related to developing on or for one of those platforms. Skill level or experience don't matter, as long as they're genuinely trying to learn how to program for Apple platforms.
 - Do not invite strangers or people you've just met.
 
 #### Policies
-- Try to limit your invite requests to one per week, unless you feel rather strongly about a few people.
+- **You can invite up to 2 people per calendar month.**
+- **A maximum of 4 people from the same organization can be invited per month.**
+- Since one of the goals of this Slack and these changes is to create an inclusive space for [underrepresented groups](https://en.wikipedia.org/wiki/Underrepresented_group#Underrepresented_groups_in_STEM) in tech, **inviting an underrepresented member of the community will allow you an extra invite in the following month**.
 - You are responsible for those who you invite... If you invite someone who is causing issues, your future invitation requests may not be honored.
-- Use the **#please-add** channel to invite someone you would like to have join the Slack by providing a **name** and **personal email address** to reach the invitee at.
+- Use the workflow in the **#please-add** channel to invite people you would like to have join the Slack.
 
 **Please avoid inviting people in a public internet setting such as tweeting about it**. This often leads to random people who come across the conversation asking for requests as well, which creates an uncomfortable situation for those involved.
 
