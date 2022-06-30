@@ -9,6 +9,7 @@
 - race
 - age
 - religion
+- employer/employment status
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
