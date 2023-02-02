@@ -52,7 +52,7 @@ A simple way to remember how you're expected to act: if you can't find anything 
 - Listen without interruption.
 - Believe what the person is saying & do not attempt to disqualify what they have to say.
 - Ask for tips / help with avoiding making the offense in the future.
-- Apologize and ask forgiveness.
+- Offer a thoughtful apology. ([Here's a good starting point](https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366) if you need help crafting one. 🙏🏼)
 
 ### Infractions
 
