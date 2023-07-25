@@ -13,7 +13,6 @@
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-
 ### As someone who is part of this Slack, you agree that:
 
 - We are collectively and individually committed to safety and inclusivity.
@@ -111,11 +110,11 @@ Failing to follow the community guidelines as described in this document carries
 If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack IDs:**
 
 * **Joe Fabisevich** - [@mergesort]
-* **Jeff Grossman** - [@jeffgrossman]
-* **Soroush Khanlou** - [@soroush]
-* **Jazbo** - [@bugkrusha]
-* **Berta Devant** - [@Berta Devant]
 * **Christina Moulton** - [@Christina]
+* **Jazbo** - [@bugkrusha]
 * **Daniel Jalkut** - [@danielpunkass]
+* **Liz Marley** - [@Liz]
+* **Mark Row** - [@bdash]
+* **Soroush Khanlou** - [@soroush]
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
