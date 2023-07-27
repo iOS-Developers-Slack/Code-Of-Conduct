@@ -52,7 +52,7 @@ Please do not post content that is
 - Illegal in nature. We do not want to take on the burden of hosting illegal content.
 - Nudity. There is plenty of places to find nudity on the internet, this is not one of them.
 - More generally [Not Safe For Work](https://www.dictionary.com/browse/nsfw). If you feel something is on the edge of being SFW and it feels relevant and necessary to post, please write a message that the content you wish to post is NSFW and hide the NSFW content in a thread. This way people who are more sensitive to this content do not have to look at it.
-- Synthetic media (aka deepfakes) with the intent to deceive others into believing it's real. You may post synthetic media for the purposes of discussion, for example in the context of a debate about how a deepfake is causing problems in our society.
+- Synthetic media (aka deepfakes) without clearly noting it is synthetic media. You may post synthetic media for the purposes of discussion, for example in the context of a debate about how a deepfake is causing problems in our society, not to deceive others into believing it's real.
 
 ### If you say something that is found offensive, and you are called out on it, let’s:
 
