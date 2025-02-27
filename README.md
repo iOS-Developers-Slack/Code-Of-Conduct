@@ -115,7 +115,7 @@ Failing to follow the community guidelines as described in this document carries
 
 
 ### Admins
-If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack IDs:**
+**If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack usernames:**
 
 * **Joe Fabisevich** - [@mergesort]
 * **Christina Moulton** - [@Christina]
