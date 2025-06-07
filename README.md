@@ -122,7 +122,7 @@ Failing to follow the community guidelines as described in this document carries
 * **Jazbo** - [@bugkrusha]
 * **Daniel Jalkut** - [@danielpunkass]
 * **Liz Marley** - [@Liz]
-* **Mark Row** - [@bdash]
+* **Mark Rowe** - [@bdash]
 * **Soroush Khanlou** - [@soroush]
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
