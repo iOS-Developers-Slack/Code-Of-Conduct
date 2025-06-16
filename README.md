@@ -78,7 +78,24 @@ Failing to follow the community guidelines as described in this document carries
 - Penalties will be determined by the admins. The actions taken will result from a discussion, which you may be a part of, and the consequences will be binding.
 - While infractions are being discussed, the involved users will lose their invitation privileges to ensure if they are found to have violated rules, that no new users will be added to the community on their behalf.
 
-#### Privacy
+**Smaller Repeated Infractions**
+
+As stated earlier, our community has strict rules against abuse, discrimination, and harassment. However, repeated small infractions — while not individually severe — can significantly deteriorate the community experience for both members and moderators. Repeated offenses are a burden on the admin team and detract from the community as a whole.
+
+Admins will monitor patterns of behavior that consistently cause frustration or discomfort to community members, even if these actions do not individually qualify as explicit harassment or abuse. A consistent pattern of disruptive or negative behavior that is harmful to the community may be addressed as an actionable infraction.
+
+This is by no means a fully exhaustive list, but examples of small infractions that frustrate community members when done frequently are:
+- Posting violence or gore without context.
+- Talking down to people.
+- Making rude comments that do not consider other people's perspective.
+- Disregarding someone's viewpoint or lived experience.
+- Derailing conversations by posting out of context messages.
+  
+We recognize that everyone makes occasional mistakes, so the admin team will evaluate such behaviors judiciously. Our goal is to prevent persistent and repeated negative behaviors that frustrate community members, not to punish people for their speech habits or differences. This does not mean that joking around, snark, and sarcasm are prohibited, we accept that different people should be able to coexist in a large and welcoming community.
+
+We will always seek to make any problems known, so there is an opportunity to correct problematic behavior. Should this behavior persist after warnings, the admin team reserves the right to apply appropriate penalties, including suspension and bans.
+
+### Privacy
 - All conversations are private unless otherwise specified. 
   - The only exceptions to this rule pertain to the enforcement of our code of conduct. A conversation may be shared with any member of the administrative team when a violation of the code of conduct has occurred. The conversation may then be reviewed by the entire administrative team, if necessary, to determine an appropriate resolution.
 
