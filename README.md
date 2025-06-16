@@ -80,9 +80,20 @@ Failing to follow the community guidelines as described in this document carries
 
 **Smaller Repeated Infractions**
 
-- As stated earlier, our community has strict rules against abuse, discrimination, and harassment. However, repeated small infractions — while not individually severe — can significantly deteriorate the community experience for both members and moderators. Repeated offenses are a burden on the admin team and detract from the community as a whole.
-- Admins will monitor patterns of behavior that consistently cause frustration or discomfort to community members, even if these actions do not individually qualify as explicit harassment or abuse. A consistent pattern of disruptive or negative behavior that is harmful to the community may be addressed as an actionable infraction.
-- We recognize that everyone makes occasional mistakes, so the admin team will evaluate such behaviors carefully, focusing specifically on repeated or persistent occurrences. If a problematic pattern emerges, members in question will receive warnings to correct their behavior. Should this behavior persist after warnings, the admin team reserves the right to apply appropriate penalties, including suspension and bans.
+As stated earlier, our community has strict rules against abuse, discrimination, and harassment. However, repeated small infractions — while not individually severe — can significantly deteriorate the community experience for both members and moderators. Repeated offenses are a burden on the admin team and detract from the community as a whole.
+
+Admins will monitor patterns of behavior that consistently cause frustration or discomfort to community members, even if these actions do not individually qualify as explicit harassment or abuse. A consistent pattern of disruptive or negative behavior that is harmful to the community may be addressed as an actionable infraction.
+
+This is by no means a fully exhaustive list, but examples of small infractions that frustrate community members when done frequently are:
+- Posting violence or gore without context.
+- Talking down to people.
+- Making rude comments that do not consider other people's perspective.
+- Disregarding someone's viewpoint or lived experience.
+- Derailing conversations by posting out of context messages.
+  
+We recognize that everyone makes occasional mistakes, so the admin team will evaluate such behaviors judiciously. Our goal is to prevent persistent and repeated negative behaviors that frustrate community members, not to punish people for their speech habits or differences. This does not mean that joking around, snark, and sarcasm are prohibited, we accept that different people should be able to coexist in a large and welcoming community.
+
+We will always seek to make any problems known, so there is an opportunity to correct problematic behavior. Should this behavior persist after warnings, the admin team reserves the right to apply appropriate penalties, including suspension and bans.
 
 ### Privacy
 - All conversations are private unless otherwise specified. 
