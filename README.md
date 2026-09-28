@@ -62,6 +62,19 @@ Please do not post content that is
 - Ask for tips / help with avoiding making the offense in the future.
 - Offer a thoughtful apology. ([Here's a good starting point](https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366) if you need help crafting one. 🙏🏼)
 
+### And please don't:
+- Be a jerk
+- Talk down to others
+- Tear people down to make a point
+- Be argumentative or passive aggressive
+- Respond to community members in a performative manner
+- Intentionally stir up trouble
+- Assume the worst in others
+- Lecture people
+- Grandstand
+- Act in bad faith
+- Assume others are wrong, immoral, or reprehensible because they disagree with you
+
 ### Infractions
 
 Failing to follow the community guidelines as described in this document carries consequences. 
