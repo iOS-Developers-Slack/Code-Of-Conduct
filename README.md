@@ -146,7 +146,11 @@ We will always seek to make any problems known, so there is an opportunity to co
 
 
 ### Admins
-**If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know. Here is a list of the current admins and their Slack usernames:**
+**If you experience or notice abuse, harassment, discrimination, or feel unsafe, let an admin know.**
+
+To reach an admin, use the `@admin` group. Admins identify themselves with the `:admin:` badge. Impersonating an admin is prohibited and considered a punishable offense.
+
+Here is a list of the current admins and their Slack usernames:
 
 * **Joe Fabisevich** - [@mergesort]
 * **Christina Moulton** - [@Christina]
