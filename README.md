@@ -68,7 +68,7 @@ Please do not post content that is
 - Tear people down to make a point
 - Be argumentative or passive aggressive
 - Respond to community members in a performative manner
-- Intentionally stir up trouble
+- Deliberately instigate or seek to stir up trouble
 - Assume the worst in others
 - Lecture people
 - Grandstand
